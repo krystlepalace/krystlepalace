@@ -1,4 +1,8 @@
-✝ 🎃 Hi, I’m @krystlepalace ✝
-Learn programming on Python(Backend) 🖇️
-Currently know all the basics and tryna get into  backend-web 🌐
-Bc I need portfolio and some pet projects, will happy to colaborate with other beginners 💟
+My nickname is krystlepalace and i am backend web developer. I have started learning programming a year ago and still practicing to code better and more complicated apps. 
+I make telegram bots with aiogram, APIs with FastAPI and websites with Django.
+I am also studying javascript for fullstack developing and learning things about programming overall.
+Always happy to work together and ready to take orders. 
+
+
+Statistics
+![GitHub Stats](https:/github-readme-stats.vercel.app/api?username=krystlepalace&theme=radical)
