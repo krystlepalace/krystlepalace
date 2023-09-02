@@ -3,7 +3,8 @@ My nickname is krystlepalace and i am backend web developer. I have started lear
 I make telegram bots with aiogram, APIs with FastAPI and websites with Django.
 I am also studying javascript for fullstack developing and learning things about programming overall.
 Always happy to work together and ready to take orders. 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+### ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 
 ## Statistics
