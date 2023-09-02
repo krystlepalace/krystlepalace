@@ -5,4 +5,4 @@ Always happy to work together and ready to take orders.
 
 
 Statistics
-![GitHub Stats](https:/github-readme-stats.vercel.app/api?username=krystlepalace&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=krystlepalace)]
