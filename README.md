@@ -8,3 +8,7 @@ Always happy to work together and ready to take orders.
 ## Statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=krystlepalace&theme=dracula&show_icons=true)
+
+
+## Contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/krystlepalace)
