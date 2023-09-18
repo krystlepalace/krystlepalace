@@ -1,5 +1,4 @@
 # krystlepalace
-[![wakatime](https://wakatime.com/badge/user/4d0cc4aa-e1c1-483b-8c80-199c9ea5d0c5.svg)](https://wakatime.com/@4d0cc4aa-e1c1-483b-8c80-199c9ea5d0c5)]
 My nickname is krystlepalace and i am backend web developer. I have started learning programming a year ago and still practicing to code better and more complicated apps. 
 I make telegram bots with aiogram, APIs with FastAPI and websites with Django.
 I am also studying javascript for fullstack development and learning things about programming overall.
@@ -13,7 +12,7 @@ Always happy to work together and ready to take orders.
 
 
 ## Statistics
-
+![wakatime](https://wakatime.com/badge/user/4d0cc4aa-e1c1-483b-8c80-199c9ea5d0c5.svg)](https://wakatime.com/@4d0cc4aa-e1c1-483b-8c80-199c9ea5d0c5)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=krystlepalace&theme=dracula&show_icons=true)
 
 ## My tech stack
